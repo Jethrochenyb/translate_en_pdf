@@ -32,7 +32,7 @@ python pdf_en2chn.py
 
 	
 ### 效果
-![demo](demo.png)
+![demo](demo_trans.png)
 
 
 
